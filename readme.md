@@ -1,3 +1,6 @@
+This project is a fully static front-end replica of the NoBroker homepage built using HTML5 and CSS3.
+
+
 Key Features Implemented
 	•	Fixed top navigation bar with aligned menu items
 	•	Hero section with search functionality
